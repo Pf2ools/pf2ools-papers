@@ -1,6 +1,6 @@
 # Pf2ools Papers
 
-This **strictly internal** repository stores the (sometimes quasi-formal) write-ups that are sporadically written for the Pf2ools project. The aim is to avoid these documents being spread across file-hosters and Discord messages, and instead collect them into one place for later reference.
+This repository stores the (sometimes quasi-formal) write-ups that are sporadically written for the Pf2ools project. The aim is to avoid these documents being spread across file-hosters and Discord messages, and instead collect them into one place for later reference. It is oriented towards **contributing developers**, and assumes a reasonable familiarity with the project's particulars.
 
 ## Format
 
